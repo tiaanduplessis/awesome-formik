@@ -1,0 +1,9 @@
+{
+  "name": "awesome-formik",
+  "scripts": {
+    "lint": "awesome-lint --fix"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}

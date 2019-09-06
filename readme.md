@@ -38,7 +38,7 @@
 
 ## Apps
 
-- [p]Pizzaql](https://github.com/pizzaql/pizzaql) - Modern OSS Order Management System for Pizza Restaurants
+- [Pizzaql](https://github.com/pizzaql/pizzaql) - Modern OSS Order Management System for Pizza Restaurants
 - [React Bank](https://github.com/jurkian/react-bank) - Banking app built in React
 - [My Idea Pool Client](https://github.com/functionalStoic/my-idea-pool-client) - 💡💡 React + Redux + JWT (Auth) + Formik (Forms). Store and rank your ideas
 

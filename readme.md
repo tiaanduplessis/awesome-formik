@@ -28,7 +28,7 @@
 
 - [React Formik UI](https://github.com/KaiHotz/react-formik-ui) - A simple component library, composed out of pure HTML form elements to make your live easier composing forms with Formik and React.
 - [Formik Wizard Form](https://github.com/mjangir/formik-wizard-form) - Formik Wizard Form is stepper form component built over Formik.
-- [Formik Rrror Focus](https://github.com/tiaanduplessis/formik-error-focus) - Scroll to the first error in your Formik form and set focus.
+- [Formik Error Focus](https://github.com/tiaanduplessis/formik-error-focus) - Scroll to the first error in your Formik form and set focus.
 - [Formik Material UI](https://github.com/stackworx/formik-material-ui) - Bindings for using Formik with Material-UI.
 - [Formik Persist](https://github.com/jaredpalmer/formik-persist) - 💾 Persist and rehydrate a Formik form to localStorage
 - [Formik antd](https://github.com/jannikbuschke/formik-antd) - Simple declarative bindings for Ant Design and Formik.

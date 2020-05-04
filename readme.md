@@ -35,6 +35,7 @@
 - [Formover](https://github.com/jaredpalmer/formover) - Build forms that pop bottles 🍾with Formik and React Popper.
 - [React Native Formik](https://github.com/bamlab/react-native-formik) - Set of helpers to make form awesome with React Native and Formik.
 - [Formik Effect](https://github.com/jaredpalmer/formik-effect) - Declarative component for managing side-effects in Formik forms.
+- [Formik JSON](https://github.com/flipbyte/formik-json-schema) - formik-json is a wrapper for Formik to easily create forms using JSON / Javascript Object for defining the elements.
 
 ## Apps
 
